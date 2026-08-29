@@ -1,0 +1,10 @@
+17. Dada una temperatura F ingresada en grados Farenheit calcule su equivalente expresada en grados
+Celsius de acuerdo a la f´ormula: Restar 32 a F, luego multiplicar por 5 y luego dividir por 9. Un
+caso de prueba puede ser que 32 grados Farenheit corresponden a 0 grados cent´ıgrados. Plantee
+otros casos de prueba.
+2
+
+caso 1: 
+si se ingresa 212 da 100
+caso 2: 
+si se ingresa 0 da aprox 17,1

@@ -1,0 +1,13 @@
+9. Calcular la superficie y per´ımetro de un c´ırculo. ¿Cu´al es el algoritmo? Cu´ales son los casos de
+prueba.
+
+algoritmo:
+1) pedir al usuario que ingrese el radio del circulo
+2) guardar ese valor en una variable, ya sea int o float
+3) crear la variable para la superficie y asignarle el resultado de multiplicar pi por la variable ingresada al cuadrado
+4) crear la variable para el perimetro y asignarle el resultado de multiplicar 2*pi*la variable ingresada
+5) imprimir la variable de la superficie y del perimetro
+
+casos de prueba:
+1)si el usuario ingresa que el radio es 0: la superficie da 0 y el perimetro tambien
+2)si el usuario ingresa un radio de 1: la superficie da pi (3.14159...) y el perímetro da 2 * pi (6.28318...).

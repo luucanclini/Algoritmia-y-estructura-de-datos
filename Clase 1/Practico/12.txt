@@ -1,0 +1,11 @@
+12. Calcular el Seno de un n´umero ingresado en grados. Un caso de prueba puede ser que el seno de 90
+es 1 y el seno de cero es cero. ¿Qu´e otros casos puede plantear?
+
+algoritmo:
+1) pedirle al usuario que ingrese el angulo para calcular el seno
+2) convertir los angulos a radianes
+3) calcular el seno y retornarlo
+
+otros casos:
+1)que el seno de 360 grados es 0
+2)que el seno de 180 tambien es 0

@@ -1,0 +1,16 @@
+2. Determine cuales de los siguientes son identificadores validos:
+a) elefante
+b) Elefante
+c) eleFanTE
+d) _elefante
+e) __elefante
+f) elefante84
+g) ele89fante
+h) ELE89fante_
+i) 89fante
+j) 8eleF9ante
+k) _89fante
+l) ele fante
+
+validos: a,b,c,d,e,f,g,h,k
+no validos: i,j,l

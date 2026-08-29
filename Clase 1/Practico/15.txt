@@ -1,0 +1,13 @@
+15. Asumiendo que al programa se ingresa un n´umero x, calcular la siguiente funci´on:
+f (x) = 3x + log(x) − 4 sin(x) + 8 tan(x)
+Plantee al menos dos casos de prueba.
+
+caso 1:
+si x=pi
+f (pi)= 3.pi+log(pi)-4sin(pi)+8tan(pi)
+     = 3.pi+log(pi)-4.0+8.0
+     =10,5695
+
+caso 2:
+si x=pi/2
+va a dar error porq la tangente de pi/2 es indefinida

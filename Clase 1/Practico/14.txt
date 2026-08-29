@@ -1,0 +1,20 @@
+14. Calcular la tangente de un ´angulo ingresado en grados. Resu´elvalo de dos maneras, usando la funci´on
+tangente y usando el cociente de seno y coseno. Plantee casos de prueba. ¿Qu´e ocurre al ingresar
+90 grados como dato de entrada?
+
+caso 1: usando la funcion de tangente
+1)pedirle al usuario que ingrese el angulo en grados
+2)convertir los grados en radianes
+3)calcular la tangente y devolver el resultado
+
+caso 2: usando seno sobre coseno
+1)pedirle al usuario que ingrese el angulo en grados
+2)convertir los grados en radianes
+3) crear una variable llamada seno para guardar el calculo del seno del angulo ingresado
+4) crear una variable llamada coseno para guardar el calculo del coseno del angulo ingresado
+5) calcular la division del seno por el coseno y devolver el resultado
+
+casos de prueba:
+al ingresar 90 grados tenemos un error
+1) si el grado es 0 da 0
+2) si el grado es 45 da 1

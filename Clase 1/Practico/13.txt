@@ -1,0 +1,12 @@
+13. Calcular el Coseno de un n´umero ingresado en radianes. ¿Qu´e casos de prueba puede plantear?
+
+algoritmo:
+1) pedirle al usuario que ingrese el angulo en radianes para calcular el coseno
+2) calcular el Coseno y retornarlo
+
+otros casos:
+1) que el coseno de 2pi es 1
+2) el coseno de pi es 1
+3) el coseno de -pi es -1
+4) el coseno de pi sobre 2 es 0
+5) menos pi sobre dos tmb da 0

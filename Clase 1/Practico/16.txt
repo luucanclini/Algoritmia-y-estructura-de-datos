@@ -1,0 +1,9 @@
+16. Calcule el logaritmo base 3 de un n´umero ingresado por teclado. Un caso de prueba es que cuando
+se ingresa 81 el programa contesta 4 (puesto que 3 a la 4 es 81). Plantee otros casos de prueba.
+
+caso 1:
+si se ingresa 3 da 1
+caso 2:
+si se ingresa 9 da 2
+caso 3: 
+si se ingresa 27 da 3

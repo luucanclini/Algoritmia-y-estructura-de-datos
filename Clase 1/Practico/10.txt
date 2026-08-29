@@ -1,0 +1,9 @@
+10. Calcular la superficie de un pent´agono regular. ¿Cu´al es el algoritmo y cu´ales son los casos de
+prueba?
+
+algoritmo:
+1) pedirle al usuario que ingrese cuanto mide uno de los lados del pentagono y guardar ese valor en una variable llamada lado
+2) pedirle al usuario que ingrese cuanto mide la apotema del pentagono y guardar ese valor en una variable llamada apotema
+3) crear una variable llamada perimetro para guardar el resultado de multiplicar el lado por 5
+4) crear la variable de la superficie, en ella guardar la multiplicacion de la apotema por el perimetro sobre 2
+5) imprimir el resultado de la superficie 
