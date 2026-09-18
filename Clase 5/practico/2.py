@@ -1,10 +1,9 @@
-cadena = str(input("ingrese una cadena: "))
-largo = len(cadena)
+cadena = str(input("ingrese una cadena: ")).lower()
+
 countVocales = 0
-countConsonantes = 0
 vocales = ('a','e','i','o','u')
 
 for c in cadena:
-    if 'A' <= c <= 'Z':
+    if c in (vocales):
         countVocales = countVocales + 1
-        sumatoria = sumatoria + valor
+print(cadena,'tiene',countVocales,'vocales')
