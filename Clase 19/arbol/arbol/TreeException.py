@@ -1,0 +1,2 @@
+class TreeException(Exception):
+	pass
