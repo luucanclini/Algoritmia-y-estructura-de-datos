@@ -1,0 +1,14 @@
+def crearVector(n):
+    vector = [0 for n in range(n)]
+    return vector
+
+def restaVectores(v,w):
+    nuevoVector = crearVector(len(v))
+    for j in range(len(v)):
+        nuevoVector[j] = v[j]-w[j]
+    return nuevoVector
+
+a=[2,3]
+b=[4,5]
+
+print(restaVectores(a,b))
