@@ -1,0 +1,32 @@
+1. Ordene las siguientes funciones por tasa de crecimiento asint ́otico:
+a) 4n log n + 2n
+b) 210
+c) 2 log n
+d ) 3n + 100 log n
+e) 4n
+f ) 2n
+g) n2 + 10n
+h) 5n3
+i ) n log n
+
+    constantes=
+    - b,
+    sublineal=
+    c
+    logaritmicas lineales=
+    - a,i
+    lineal = 
+    - e,f,d
+    polinomial =
+    g,h
+
+orden creciente:
+1. b
+2. c
+3. f
+4. d
+5. e
+6. i
+7. a
+8. g
+9. h
